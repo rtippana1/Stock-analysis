@@ -7,6 +7,7 @@ This project is to help steve analyze stocks data in which in his parents invest
 - Based on the below screen shots return value analysis DQ stocks did really well in the year 2017 when compared to year 2018.
 
   [Git Hub] (https://github.com/rtippana1/Screenshots/blob/main/All%20Stocks%20Analysis_2018.png)
+  
   [Git Hub] (https://github.com/rtippana1/Screenshots/blob/main/All%20Stocks%20Analysis_2017.png)
 
 
@@ -14,7 +15,9 @@ This project is to help steve analyze stocks data in which in his parents invest
 After refactoring when compared to time taken to analyze the all stocks data before refactoring. 
 
 ![Alt Text] (https://github.com/rtippana1/Screenshots/blob/main/VBA_Challenge_2017.png)
+
 ![Alt Text] (https://github.com/rtippana1/Screenshots/blob/main/VBA_Challenge_2018.png)
+
 #### Summary
 -The advantage of refactoring is that the code post refactoring is much easier to understand and also helps in excuting the program faster. It also improves the internal code structure and improves the design and existing code with out altering the output.
 
