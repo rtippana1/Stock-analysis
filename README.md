@@ -5,8 +5,7 @@ This project is to help steve analyze stocks data in which in his parents invest
 
 ### Results
 - Based on the below screen shots return value analysis DQ stocks did really well in the year 2017 when compared to year 2018.
-  [GitHub](https://github.com/rtippana1/Screenshots/All Stocks Analysis_2018.png)
-  [GitHub](https://github.com/rtippana1/Screenshots/All Stocks Analysis_2017.png)
+  ![alt text] (https://github.com/rtippana1/Screenshots/blob/main/All%20Stocks%20Analysis_2017.png)
 
 
 - Based on the below screen shots the time taken to analyze all stocks data is much lower 
