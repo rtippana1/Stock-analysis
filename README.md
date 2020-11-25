@@ -16,4 +16,5 @@ After refactoring when compared to time taken to analyze the all stocks data bef
 
 #### Summary
 -The advantage of refactoring is that the code post refactoring is much easier to understand and also helps in excuting the program faster. It also improves the internal code structure and improves the design and existing code with out altering the output.
+
 -The pros os refactoring are simpler ,easy to understand and a code with better performance. 
